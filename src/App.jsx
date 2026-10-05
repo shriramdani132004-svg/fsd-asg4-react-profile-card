@@ -3,7 +3,7 @@
 function App() {
     const profile = {
         name: "Shriram Dani",
-        imageUrl: "https://i.pravatar.cc/300?img=12",
+        imageUrl: "/fsd-asg4-react-profile-card/profile.jpg",
         description:
             "Computer science student passionate about web development, JavaScript, React, and building useful software applications."
     };
@@ -20,3 +20,4 @@ function App() {
 }
 
 export default App;
+
